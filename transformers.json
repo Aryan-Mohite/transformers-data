@@ -1,0 +1,35 @@
+[
+  {"name":"Optimus Prime","faction":"Autobot","altMode":"Freight Truck","role":"Supreme Commander","weapon":"Ion Blaster","description":"Leader of the Autobots who stands for freedom."},
+  {"name":"Bumblebee","faction":"Autobot","altMode":"Sports Car","role":"Scout","weapon":"Plasma Cannons","description":"Small, fast and extremely loyal."},
+  {"name":"Ratchet","faction":"Autobot","altMode":"Ambulance","role":"Medic","weapon":"Repair Tools","description":"Chief medical officer of Autobots."},
+  {"name":"Ironhide","faction":"Autobot","altMode":"Pickup Truck","role":"Weapons Specialist","weapon":"Cannons","description":"Heavy-duty frontline soldier."},
+  {"name":"Jazz","faction":"Autobot","altMode":"Porsche","role":"Special Ops","weapon":"Photon Rifle","description":"Cool and tactical Autobot."},
+  {"name":"Wheeljack","faction":"Autobot","altMode":"Race Car","role":"Engineer","weapon":"Explosives","description":"Inventor and scientist."},
+  {"name":"Arcee","faction":"Autobot","altMode":"Motorcycle","role":"Warrior","weapon":"Energy Blades","description":"Agile Autobot fighter."},
+  {"name":"Bulkhead","faction":"Autobot","altMode":"Military Truck","role":"Heavy Assault","weapon":"Mace","description":"Strong but kind-hearted."},
+  {"name":"Ultra Magnus","faction":"Autobot","altMode":"Transport Truck","role":"Commander","weapon":"Missiles","description":"Strict military leader."},
+  {"name":"Hot Rod","faction":"Autobot","altMode":"Sports Car","role":"Warrior","weapon":"Laser Pistols","description":"Young and impulsive hero."},
+
+  {"name":"Megatron","faction":"Decepticon","altMode":"Cybertronian Jet","role":"Leader","weapon":"Fusion Cannon","description":"Ruthless Decepticon leader."},
+  {"name":"Starscream","faction":"Decepticon","altMode":"Fighter Jet","role":"Air Commander","weapon":"Null Rays","description":"Ambitious and treacherous."},
+  {"name":"Soundwave","faction":"Decepticon","altMode":"Communications Vehicle","role":"Intelligence Officer","weapon":"Sonic Blaster","description":"Master of espionage."},
+  {"name":"Shockwave","faction":"Decepticon","altMode":"Artillery Cannon","role":"Scientist","weapon":"Particle Cannon","description":"Cold, logical tactician."},
+  {"name":"Barricade","faction":"Decepticon","altMode":"Police Car","role":"Enforcer","weapon":"Machine Guns","description":"Hunter of Autobots."},
+  {"name":"Blackout","faction":"Decepticon","altMode":"Helicopter","role":"Heavy Assault","weapon":"Missiles","description":"Mass destruction specialist."},
+  {"name":"Devastator","faction":"Decepticon","altMode":"Construction Vehicles","role":"Combiner","weapon":"Mega Cannon","description":"Combined Decepticon monster."},
+  {"name":"Bonecrusher","faction":"Decepticon","altMode":"Bulldozer","role":"Demolition","weapon":"Claws","description":"Brutal frontline attacker."},
+  {"name":"Scavenger","faction":"Decepticon","altMode":"Excavator","role":"Engineer","weapon":"Drill","description":"Devastator component."},
+  {"name":"Mixmaster","faction":"Decepticon","altMode":"Cement Mixer","role":"Chemist","weapon":"Acid","description":"Explosives expert."},
+
+  {"name":"Cliffjumper","faction":"Autobot","altMode":"Muscle Car","role":"Brawler","weapon":"Shotguns","description":"Short-tempered fighter."},
+  {"name":"Hound","faction":"Autobot","altMode":"Military Jeep","role":"Tracker","weapon":"Sniper Rifle","description":"Recon specialist."},
+  {"name":"Kup","faction":"Autobot","altMode":"Pickup Truck","role":"Veteran","weapon":"Blaster","description":"Old but experienced."},
+  {"name":"Perceptor","faction":"Autobot","altMode":"Microscope","role":"Scientist","weapon":"Optic Beam","description":"Analytical Autobot."},
+  {"name":"Blaster","faction":"Autobot","altMode":"Radio Truck","role":"Communications","weapon":"Sound Cannon","description":"Broadcast specialist."},
+
+  {"name":"Skywarp","faction":"Decepticon","altMode":"Jet","role":"Teleport Specialist","weapon":"Blasters","description":"Can teleport instantly."},
+  {"name":"Thundercracker","faction":"Decepticon","altMode":"Jet","role":"Air Warrior","weapon":"Sonic Booms","description":"Loyal but conflicted."},
+  {"name":"Ravage","faction":"Decepticon","altMode":"Panther","role":"Scout","weapon":"Claws","description":"Soundwave’s minion."},
+  {"name":"Laserbeak","faction":"Decepticon","altMode":"Drone","role":"Spy","weapon":"Lasers","description":"Surveillance expert."},
+  {"name":"Frenzy","faction":"Decepticon","altMode":"Cassette","role":"Saboteur","weapon":"Shockwaves","description":"Destructive operative."}
+]
