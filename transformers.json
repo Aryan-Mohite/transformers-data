@@ -126,15 +126,6 @@
         "image": "images/starscream.jpg"
     },
     {
-        "name": "Soundwave",
-        "faction": "Decepticon",
-        "altMode": "Communications Vehicle",
-        "role": "Intelligence Officer",
-        "weapon": "Sonic Blaster",
-        "description": "Master of espionage.",
-        "image": "images/soundwave.jpg"
-    },
-    {
         "name": "Shockwave",
         "faction": "Decepticon",
         "altMode": "Artillery Cannon",
@@ -180,15 +171,6 @@
         "image": "images/bonecrusher.jpg"
     },
     {
-        "name": "Cliffjumper",
-        "faction": "Autobot",
-        "altMode": "Muscle Car",
-        "role": "Brawler",
-        "weapon": "Shotguns",
-        "description": "Short-tempered fighter.",
-        "image": "images/cliffjumper.jpg"
-    },
-    {
         "name": "Hound",
         "faction": "Autobot",
         "altMode": "Military Jeep",
@@ -196,14 +178,6 @@
         "weapon": "Sniper Rifle",
         "description": "Recon specialist.",
         "image": "images/hound.jpg"
-    },
-    {
-        "name": "Laserbeak",
-        "faction": "Decepticon",
-        "altMode": "Drone",
-        "role": "Spy",
-        "weapon": "Lasers",
-        "description": "Surveillance expert.",
-        "image": "images/laserbeak.jpg"
     }
 ]
+
